@@ -15,13 +15,13 @@
 <key>kind</key>
 <string>display-image</string>
 <key>url</key>
-<string>https://github.com/amitkhoth/ivantiTest/blob/main/CloudFlareBuild/App%20Icon%20(iPhone%20Settings)%2058%20x%2058%20(2x).png</string>
+<string>https://raw.githubusercontent.com/amitkhoth/ivantiTest/refs/heads/main/CloudFlareBuild/App%20Icon%20(iPhone%20Settings)%2058%20x%2058%20(2x).png</string>
 </dict>
 <dict>
 <key>kind</key>
 <string>full-size-image</string>
 <key>url</key>
-<string>https://github.com/amitkhoth/ivantiTest/blob/main/CloudFlareBuild/App%20Icon%20(App%20Store)%201024%20x%201024%20(1x).png</string>
+<string>https://raw.githubusercontent.com/amitkhoth/ivantiTest/refs/heads/main/CloudFlareBuild/App%20Icon%20(App%20Store)%201024%20x%201024%20(1x).png</string>
 </dict>
 </array>
 <key>metadata</key>
