@@ -27,7 +27,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>net.pulsesecure.pulsesecure</string>
+<string>net.pulsesecure.pulsesecureenterprise</string>
 <key>bundle-version</key>
 <string>22.8.2.94913</string>
 <key>kind</key>
